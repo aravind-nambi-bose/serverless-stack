@@ -10,7 +10,7 @@ variable "myregion" {
 
 variable "accountId" {
   type = string
-  default = "597737828455"
+  default = "xxxx"
 }
 
 resource "aws_api_gateway_rest_api" "ServerlessTestAPI" {
